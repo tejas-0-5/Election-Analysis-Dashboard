@@ -5,4 +5,4 @@ Interactive Power BI dashboard for analyzing Indian election results
 - Interactive Power BI visuals with slicers
 - Custom DAX measures for seat and vote calculations
 - Clean dashboard UI designed in Figma
-- Scalable data model for future election results
+- Scalable data model for future election results.
